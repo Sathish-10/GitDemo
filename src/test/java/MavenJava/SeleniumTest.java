@@ -25,4 +25,11 @@ public class SeleniumTest {
 		System.out.println("Browser Close2");
 		System.out.println("Browser Close3");
 	}
+	@Test
+	public void browserClosed() 
+	{
+		System.out.println("Browser Close");
+		System.out.println("Browser Close2");
+		System.out.println("Browser Close3");
+	}
 }

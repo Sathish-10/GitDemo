@@ -7,6 +7,11 @@ public class RestAPITest {
 	public void APIRequest()
 	{
 		System.out.println("APIRequest");
+		System.out.println("APIRequest1");
+		System.out.println("APIRequest2");
+		System.out.println("APIRequest3");
+		
+		
 	}
 	@Test
 	public void APIResponse()

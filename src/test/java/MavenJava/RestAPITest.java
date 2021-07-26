@@ -18,4 +18,9 @@ public class RestAPITest {
 	{
 		System.out.println("APIResponse");
 	}
+	@Test
+	public void APIResponses()
+	{
+		System.out.println("APIResponddse");
+	}
 }
